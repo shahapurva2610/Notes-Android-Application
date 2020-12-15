@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_note_title">Delete Note</string>
+    <string name="delete_note_message">Do you really want to delete the note?</string>
+</resources>
